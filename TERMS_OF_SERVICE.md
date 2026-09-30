@@ -106,7 +106,7 @@ If you have questions about these Terms, please contact us:
 
 - **Email:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-- **Website:** [deniscasian.com](https://deniscasian.com)
+- **Website:** [rdcapps.com](https://rdcapps.com)
 
 - **Location:** Romania, European Union
 
