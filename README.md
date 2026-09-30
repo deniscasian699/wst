@@ -31,7 +31,6 @@ Clean. Fast. Free with optional ad-free Supporter tiers.
 <img src="assets/screenshots/screen2tab.png" alt="Tablet results" width="280" />
 <img src="assets/screenshots/screen3tab.png" alt="Tablet chart" width="280" />
 <img src="assets/screenshots/screen4tab.png" alt="Tablet history" width="280" />
-<img src="assets/screenshots/screen5tab.png" alt="Tablet settings" width="280" />
 </details>
 </div>
 
