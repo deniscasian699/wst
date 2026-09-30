@@ -8,7 +8,7 @@
 
 **Contact:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-**Website:** [deniscasian.com](https://deniscasian.com)
+**Website:** [rdcapps.com](https://rdcapps.com)
 
 ## 1. Introduction
 
