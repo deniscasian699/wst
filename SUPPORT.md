@@ -110,7 +110,7 @@ or contact [support@rdcapps.com](mailto:support@rdcapps.com) for assistance.
 | **Download** | [Google Play](https://play.google.com/store/apps/details?id=com.wst.wifispeedtest) |
 | **Support email** | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | **Bug reports** | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
-| **Website** | [deniscasian.com](https://deniscasian.com) |
+| **Website** | [rdcapps.com](https://rdcapps.com) |
 
 ---
 
