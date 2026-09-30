@@ -212,7 +212,7 @@ If you have questions about this Privacy Policy or want to exercise privacy righ
 
 **Email:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-**Website:** [deniscasian.com](https://deniscasian.com)
+**Website:** [rdcapps.com](https://rdcapps.com)
 
 **Location:** Romania, European Union
 
